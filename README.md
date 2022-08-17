@@ -1,11 +1,13 @@
 # live-chat-with-maps-api
 
-> implementation firebase realtime chat 
-> implementation google maps api for get location user
+> implementation firebase realtime chat and implementation google maps api for get location user
 
 ## Build Setup
 
 ``` bash
+#insert your firebase setup
+setting your api key in folder src/firebase/config.js
+
 # install dependencies
 npm install
 
