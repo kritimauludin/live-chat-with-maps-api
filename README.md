@@ -5,8 +5,11 @@
 ## Build Setup
 
 ``` bash
-#insert your firebase setup
-setting your api key in folder src/firebase/config.js
+#google maps setup
+setting or insert your google api key in index.html file
+
+#firebase setup
+setting or insert your firebase api key in folder src/firebase/config.js
 
 # install dependencies
 npm install
