@@ -1,8 +1,11 @@
-# live-chat-with-maps-api
+# Live Chat with Maps Location
 
 > implementation firebase realtime database and implementation google maps api for get location user
 
-## Build Setup
+### Setup
+
+1. Download / clone the initial project.
+2. Unzip it (if you download it instead of clone).
 
 ``` bash
 #google maps setup
