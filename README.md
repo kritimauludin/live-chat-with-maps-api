@@ -1,6 +1,6 @@
 # live-chat-with-maps-api
 
-> implementation firebase realtime chat and implementation google maps api for get location user
+> implementation firebase realtime database and implementation google maps api for get location user
 
 ## Build Setup
 
